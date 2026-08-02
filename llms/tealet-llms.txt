@@ -1,0 +1,28 @@
+# Tealet
+
+> Tealet is a wholesale tea marketplace that connects independent tea growers and family farms directly with retailers and businesses. Buyers browse, trace, and order specialty teas sourced from family farms and cooperatives across 8 countries and 15 growing regions. Tealet originated in Hawaii and is backed by 500 Startups and Blue Startups. As of this writing Tealet does not publish a public developer API, documentation, SDKs, or an MCP server.
+
+## Company
+- [Website](https://tealet.com): Wholesale tea marketplace home.
+- [Our Mission](https://tealet.com/our-mission): Direct-trade mission and sourcing model.
+- [The Team](https://tealet.com/the-team): Company team.
+- [Investors](https://angel.co/tealet): Investor profile (500 Startups, Blue Startups).
+- [Press](https://tealet.com/press): Press coverage.
+
+## Product
+- [Sign Up](https://tealet.com/sign_up): Create a retail/wholesale account.
+- [Log In](https://tealet.com/log_in): Account login.
+- [Wholesale FAQ](https://tealet.com/faq/wholesale): Wholesale account and ordering questions.
+- [Contact](https://tealet.com/contact): Support contact (phone 808-927-8330).
+- [Newsletter](https://tealet.com/newsletter): Email newsletter signup.
+
+## Content
+- [Blog](http://blog.tealet.com): Tumblr blog covering growers, events, and tastings.
+- [Blog RSS](https://blog.tealet.com/rss): RSS feed for the blog.
+
+## Legal
+- [Terms of Use](https://tealet.com/terms-of-use)
+- [Privacy Policy](https://tealet.com/privacy-policy)
+
+## Metadata
+- Enrichment: no API surface detected (api.tealet.com unresolved; /.well-known/* all 404; no docs/developer pages).
